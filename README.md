@@ -1,6 +1,6 @@
 # React-Styling-Routing-Lab
 
-Continue on todo-list project...
+Continue on todo-list project ...
 
 ## Task1:
 
