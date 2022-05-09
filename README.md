@@ -1,5 +1,7 @@
 # React-Styling-Routing-Lab
 
+Continue on todo-list project...
+
 ## Task1:
 
     * Apply some style to your components in an attractive way.
