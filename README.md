@@ -13,7 +13,4 @@ Continue on todo-list project ...
 * Home page will displays all the tasks.
 * About page should have some information about your website.
     
-## Task3:
 
-* Add functionality to the buttons add, delete & update task.
-    
