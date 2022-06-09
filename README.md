@@ -1,12 +1,18 @@
 # React-Styling-Routing-Lab
 
-Continue on todo-list project ...
-
 ## Task1:
+Create a class component and display the UI on the screen
+
+
+
+
+## Task2:
+
+## Continue on todo-list project ...
 
 * Apply some style to your components in an attractive way.
     
-## Task2:
+## Task3:
 
 * Install "react-router-dom".  
 * Create NavBar component contain Home & About.
